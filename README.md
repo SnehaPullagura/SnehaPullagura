@@ -12,8 +12,6 @@
 
 </div>
 
-### 🚀 Tech Stack
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,mysql,docker,linux,git,github,vscode" />
 <img src="https://skillicons.dev/icons?i=html,css,js," />
