@@ -11,6 +11,15 @@
 *Building scalable Python applications • Learning every day • Passionate about Software Engineering*
 
 </div>
+### 🚀 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,mysql,postgres,redis,docker,linux,git,github,vscode" />
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,tensorflow,pytorch" />
+</p>
 
 ---
 
