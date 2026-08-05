@@ -6,14 +6,15 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=46&duration=2500&pause=1200&color=6C63FF&center=true&vCenter=true&width=850&lines=Pullagura+Sneha" alt="Typing SVG"/>
 </p>
 
-### Python Developer @ ElevateIQ
+### Python Developer 
 
 *Building scalable Python applications • Learning every day • Passionate about Software Engineering*
 
 </div>
+
 ### 🚀 Tech Stack
 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,mysql,docker,linux,git,github,vscode" />
 <img src="https://skillicons.dev/icons?i=html,css,js," />
 </p>
