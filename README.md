@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=html,css,js," />
 </p>
 
 ---
