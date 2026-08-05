@@ -1,24 +1,26 @@
-# Hi 👋, I'm Pullagura Sneha
+<h1 align="center">Hi 👋, I'm Pullagura Sneha</h1>
+<h3 align="center">B.Tech Graduate | Python Enthusiast | Machine Learning & Cyber Security Learner</h3>
 
-## 🚀 About Me
-
-I'm a B.Tech graduate from **RVR & JC College of Engineering** with an interest in Python, Machine Learning, Cyber Security, and Web Development. I enjoy learning new technologies and solving real-world problems through software development.
-
-- 🌱 Currently improving my programming and development skills
-- 💻 Interested in Python, Machine Learning, and Web Technologies
-- 🤝 Open to learning new technologies and working in collaborative environments
-- 📍 Andhra Pradesh, India
+<p align="center">
+  Passionate about building practical solutions through programming, exploring emerging technologies,
+  and continuously learning to grow as a software professional.
+</p>
 
 ---
 
-## 🎓 Education
+## 👩‍💻 About Me
 
-**Bachelor of Technology (B.Tech)**  
-RVR & JC College of Engineering
+- 🎓 B.Tech Graduate from **RVR & JC College of Engineering**
+- 💻 Skilled in **Python, C, SQL, HTML, and CSS**
+- 🤖 Completed a **Machine Learning Internship** focusing on image classification using CNN
+- 🔐 Completed a **Cyber Security Internship** with experience in web scraping
+- 📚 Published a research paper in the **Journal of Emerging Technologies and Innovative Research (JETIR)**
+- 🌱 Always eager to learn new technologies and improve my technical skills
+- 🤝 Open to Software Development, Python, and Technology-related opportunities
 
 ---
 
-## 💻 Technical Skills
+## 🛠️ Technical Skills
 
 ### Programming Languages
 - Python
@@ -33,6 +35,8 @@ RVR & JC College of Engineering
 - Convolutional Neural Networks (CNN)
 
 ### Tools
+- Git
+- GitHub
 - MS Word
 - MS Excel
 - Microsoft PowerPoint
@@ -41,71 +45,109 @@ RVR & JC College of Engineering
 
 ## 💼 Internship Experience
 
-### Machine Learning Trainee
-**Indian Servers** (May 2022 – June 2022)
+### 🤖 Machine Learning Trainee
+**Indian Servers**
 
 **Project:** Fruit Classification Using CNN
 
-- Built a fruit classification model using Convolutional Neural Networks.
-- Worked on classifying fruits based on color and size.
-- Gained practical knowledge of image classification.
+- Developed a fruit classification solution using Convolutional Neural Networks.
+- Worked on identifying fruits based on visual characteristics such as color and size.
+- Gained practical exposure to image classification concepts.
 
 ---
 
-### Cyber Security Intern
-**Spypro Security Solutions** (May 2023 – July 2023)
+### 🔐 Cyber Security Intern
+**Spypro Security Solutions**
 
 **Project:** Website Scraper
 
-- Developed an automated website data extraction tool.
-- Learned web scraping concepts and data collection techniques.
+- Built an automated website data extraction tool.
+- Learned web scraping techniques for collecting information efficiently.
+- Improved understanding of data collection and automation.
 
 ---
 
-## 📂 Projects
+## 🚀 Projects
 
 ### 🍎 Fruit Classification Using CNN
-- Image classification using Convolutional Neural Networks.
-- Classifies fruits based on visual features.
+A machine learning project focused on classifying fruits using image recognition techniques with Convolutional Neural Networks.
 
-### 🌐 Website Scraper
-- Automated extraction of website data.
-- Improved efficiency in collecting information from websites.
+**Skills Used**
+- Python
+- CNN
+- Machine Learning
 
 ---
 
-## 📚 Research Publication
+### 🌐 Website Scraper
+An automated tool for extracting information from websites using web scraping techniques.
 
-**Disrupting Criminal Networks: A Study of Social and Human Capital Strategies**
+**Skills Used**
+- Python
+- Web Scraping
+
+---
+
+## 📖 Research Publication
+
+### Disrupting Criminal Networks: A Study of Social and Human Capital Strategies
 
 Published in:
+
 **Journal of Emerging Technologies and Innovative Research (JETIR)**
 
 ---
 
-## 🌟 Soft Skills
+## 🌟 Core Strengths
 
 - Problem Solving
 - Adaptability
 - Quick Learner
-- Teamwork
+- Team Collaboration
+- Continuous Learning
 - Communication
 
 ---
 
-## 🌐 Languages
+## 🌍 Languages
 
 - English
 - Telugu
 
 ---
 
-## 📫 Connect With Me
+## 📈 GitHub Stats
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
-- 💻 GitHub: https://github.com/yourusername
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
 
 ---
 
-⭐ Thank you for visiting my profile!
+## 🛠️ Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,c,html,css,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** your-email@example.com
+
+💼 **LinkedIn:** https://linkedin.com/in/your-linkedin
+
+🐙 **GitHub:** https://github.com/YOUR_USERNAME
+
+---
+
+<p align="center">
+⭐ Thank you for visiting my profile! <br>
+Let's learn, build, and grow together.
+</p>
